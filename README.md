@@ -10,6 +10,7 @@ Repositorio que contiene los codigos realizados para los Advent of Code hechos e
 - [Day 02](https://github.com/smenendez19/adventofcode2024/tree/main/day02)
 - [Day 03](https://github.com/smenendez19/adventofcode2024/tree/main/day03)
 - [Day 04](https://github.com/smenendez19/adventofcode2024/tree/main/day04)
+- [Day 05](https://github.com/smenendez19/adventofcode2024/tree/main/day05)
 
 ## Link
 
