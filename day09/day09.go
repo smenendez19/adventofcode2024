@@ -129,5 +129,4 @@ func main() {
 
 	resultPartTwo := partTwo(diskMap)
 	fmt.Println("Part two:", resultPartTwo)
-
 }
